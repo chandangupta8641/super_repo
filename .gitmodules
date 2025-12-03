@@ -1,3 +1,6 @@
 [submodule "large-drivers"]
 	path = large-drivers
 	url = https://github.com/chandangupta8641/large-drivers
+[submodule "frameworks"]
+	path = frameworks
+	url = https://github.com/chandangupta8641/large-frameworks
