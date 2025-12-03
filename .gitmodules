@@ -4,3 +4,6 @@
 [submodule "frameworks"]
 	path = frameworks
 	url = https://github.com/chandangupta8641/large-frameworks
+[submodule "test"]
+	path = test
+	url = https://github.com/chandangupta8641/test
